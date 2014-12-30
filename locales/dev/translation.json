@@ -1,0 +1,8 @@
+{
+    "app": {
+    	"error404": "Désolé, cette page n'existe pas",
+    	"error500": "Une erreur est survenue",
+        "welcome": "Bienvenue sur notre site"
+        	
+    }
+}

@@ -1,0 +1,89 @@
+body {
+  padding: 0px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #fafafa;
+}
+
+a {
+  color: #00B7FF;
+}
+
+/* Top classes */
+.top{
+	height: 108px;
+	background-image: url(../images/top.png);
+	background-position: left;
+	background-repeat: no-repeat;	
+}
+.top-center{
+	margin-top: 24px;
+	padding-left:220px
+}
+
+.top-center .nav.custom,[role~=navigation] {
+	clear: both;
+	background: transparent;
+	color: #f5e6b6;
+	border: 0px solid #c6c6c6;
+	-o-border-radius: 0px;
+	border-radius: 0px;
+}
+
+.nav.custom a,.nav a:visited,.nav button {
+	background: transparent;
+	color: #f5e6b6;
+	cursor: pointer;
+	padding: .25em 1em;
+	text-decoration: none;
+	cursor: pointer;
+	line-height: 1.5;
+	-o-border-radius: 0;
+	border-radius: 0;
+}
+
+.nav.custom button.hamburger {
+	color: #f5e6b6;
+}
+
+.nav.custom:not(.mobile)>ul[aria-expanded=true] {
+	display: block;
+	background: #03b5dd;
+}
+
+/* Content classes */
+.content{
+	
+}
+.content-center{
+	padding: 20px;
+	min-height: 400px;
+}
+
+/* Bottom classes */
+.bottom{
+	height:198px;
+	background-image: url(../images/bottom-left.png);
+	background-position: left;
+	background-repeat: repeat-x;	
+}
+.bottom-left{
+	height:198px;
+}
+.bottom-center-wrap{
+	height:198px;
+	background-image: url(../images/bottom-back.png);
+	background-position: left;
+	background-repeat: repeat-x;
+}
+.bottom-center{
+	height:198px;
+	background-image: url(../images/bottom.png);
+	background-position: left;
+	background-repeat: no-repeat;
+}
+.bottom-right{
+	height:198px;
+	background-image: url(../images/bottom-right.png);
+	background-position: left;
+	background-repeat: no-repeat;
+}

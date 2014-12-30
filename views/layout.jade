@@ -1,0 +1,81 @@
+doctype html
+| <!--[if lt IE 7]><html class="no-js ie ie6 lt-ie7 lt-ie8 lt-ie9 lt-ie10"><![endif]-->
+| <!--[if IE 7]>   <html class="no-js ie ie7 lt-ie8 lt-ie9 lt-ie10"><![endif]-->
+| <!--[if IE 8]>   <html class="no-js ie ie8 lt-ie9 lt-ie10"><![endif]-->
+| <!--[if IE 9]>   <html class="no-js ie ie9 lt-ie10"><![endif]-->
+| <!--[if gt IE 9]><html class="no-js ie ie10"><![endif]-->
+| <!--[if !IE]><!-->
+html.no-js
+  | <!--<![endif]-->
+
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge,chrome=1')
+    meta(name='viewport', content='width=device-width, initial-scale=1, minimum-scale=1')
+
+    title= t('app.title')
+
+    // Modernizr 
+    script(src='/scripts/modernizr-2.6.2.min.js')
+
+    // jQuery
+    script(type='text/javascript', src='/scripts/jquery-1.10.2.min.js')
+
+    // framework css 
+    | <!--[if gt IE 9]><!-->
+    link(type='text/css', rel='stylesheet', href='/stylesheets/groundwork.css')
+    | <!--<![endif]-->
+
+    //if lte IE 9
+      link(type='text/css', rel='stylesheet', href='/stylesheets/groundwork-ie.css')
+    
+    link(rel='stylesheet', href='/stylesheets/style.css')
+      
+
+    // snippet (syntax highlighting for code examples)
+    script(type='text/javascript', src='/scripts/jquery.snippet.min.js')
+    link(type='text/css', rel='stylesheet', href='/stylesheets/jquery.snippet.css')
+    
+    script(type='text/javascript', href='/scripts/scripts.js')
+  body
+    header.padded.top.bounceIn.animated
+      .container
+        .row.top-center
+          //
+            nav.nav.custom.small-tablet.gap-top(role='navigation' title='MENU')
+              ul(role='menubar')
+                li
+                  a(href='./index')
+                    i.icon-home
+                    |  HOME
+                li
+                  a(href='./search')
+                    i.icon-search
+                    |  RECHERCHE
+                li
+                  a(href='./login')
+                    i.icon-user
+                    |  CONNEXION
+                li
+                  a(href='./about')
+                    i.icon-info-sign
+                    |  A PROPOS
+    .row.content
+      .one.tenth.content-left.hide-on-small-tablet.hide-on-mobile
+      .eight.tenths.content-center-wrap
+        .row.content-center
+          .one.centered.third(id='message')
+          block content
+      .one.tenth.content-right.hide-on-small-tablet.hide-on-mobile
+      
+    footer.gap-top.bounceInUp.animated
+      .bottom
+        .row
+          .one.tenth.bottom-left.hide-on-small-tablet.hide-on-mobile
+          .eight.tenths.bottom-center-wrap
+            .row.bottom-center
+          .one.tenth.bottom-right.hide-on-small-tablet.hide-on-mobile
+      
+
+    // javascript
+    script(type='text/javascript', src='/scripts/groundwork.all.js')

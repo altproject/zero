@@ -1,0 +1,13 @@
+{
+    "app": {
+    	"error404": "Désolé, cette page n'existe pas",
+    	"error500": "Une erreur est survenue",
+        "welcome": "Bienvenue sur notre site",
+        "title": "Les Carnets"
+        	
+    },
+    "index": {
+    	"title": "Carnets de voyage",
+    	"intro": "<b>Bienvenue dans les carnets de voyage</b><br><br>Créer en quelques instants votre carnet de voyage disponible partout. Partager vos expériences à travers le monde...<br>Pas besoin de créer un blog compliqué, il suffit de créer un carnet, définir vos étapes et uploader vos photos<br>Vous pouvez également utiliser notre application mobile pour emporter votre carnet partout !"
+    }
+}

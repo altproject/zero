@@ -1,0 +1,52 @@
+extends layout
+
+block content
+  script(src='/scripts/view-login.js')
+  if error
+    .one.centered.third
+      p.error.dismissible.message #{error}
+  .container
+    .tabs
+      ul(role='tablist')
+        li(role='tab' aria-controls='#login') Connexion
+        li(role='tab' aria-controls='#newlogin') Créer un compte
+      #login(role='tabpanel')
+        form(action='/connect', method='post', id='loginForm')
+          fieldset
+            legend Authentification
+            .row
+              .one.half.padded
+                label(for='login') Login
+                input#login(type='text', placeholder='Login', name='login')
+              .one.half.padded
+                label(for='password') Mot de passe
+                input#password(type='password', placeholder='secret', name='password')
+            .row
+              .one.whole.padded
+                button Valider
+      #newlogin(role='tabpanel')
+        form(action='/newlogin', method='post', id='newLoginForm')
+          fieldset
+            legend Nouvel utilisateur
+            .row
+              .one.third.padded
+                label(for='login') Login
+                input#login(type='text', placeholder='Login', name='login')
+              .one.third.padded
+                label(for='password') Mot de passe
+                input#password(type='password', placeholder='secret', name='password')
+              .one.third.padded
+                label(for='email') Email
+                input#email(type='email', placeholder='you@example.com')
+            .row
+              .one.whole.padded
+                label(for='address') Address
+                input#address(type='text', placeholder='Adresse', name='address')
+            .row
+              .one.half.padded
+                input(type='text', placeholder='Ville', name='city')
+              .one.half.padded
+                input(type='text', placeholder='Code postal', name='zipcode')
+            .row
+              .one.whole.padded
+                button Valider

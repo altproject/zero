@@ -1,0 +1,759 @@
+[2013-10-18 10:12:49.465] [INFO] app - Express server listening on port 3000
+[2013-10-18 10:13:55.879] [INFO] [default] - Express server listening on port 3000
+[2013-10-18 11:28:13.508] [INFO] app - Express server listening on port 3000
+[2013-10-18 11:28:19.137] [INFO] app - GET /
+[2013-10-18 11:28:19.145] [INFO] app - GET /stylesheets/style.css
+[2013-10-18 11:29:09.046] [INFO] app - Express server listening on port 3000
+[2013-10-18 11:29:11.621] [INFO] app - GET /
+[2013-10-18 11:31:29.228] [INFO] app - GET /
+[2013-10-18 11:31:31.092] [INFO] app - GET /
+[2013-10-18 11:31:46.746] [INFO] app - Express server listening on port 3000
+[2013-10-18 11:31:56.965] [INFO] app - GET /
+[2013-10-18 11:32:07.014] [INFO] app - GET /
+[2013-10-18 11:32:09.365] [INFO] app - GET /
+[2013-10-18 11:32:10.706] [INFO] app - GET /
+[2013-10-18 11:32:16.045] [INFO] app - GET /
+[2013-10-18 11:32:54.872] [INFO] app - Express server listening on port 3000
+[2013-10-18 11:32:57.786] [INFO] app - GET /test
+[2013-10-18 11:33:14.600] [INFO] app - Express server listening on port 3000
+[2013-10-18 11:33:16.157] [INFO] app - GET /test
+[2013-10-18 11:45:54.132] [INFO] app - Express server listening on port 3000
+[2013-10-18 11:46:03.372] [INFO] app - GET /test
+[2013-10-18 11:46:11.721] [INFO] app - GET /
+[2013-10-18 11:51:20.492] [INFO] app - Express server listening on port 3000
+[2013-10-18 11:57:42.283] [INFO] app - Express server listening on port 3000
+[2013-10-18 11:57:54.813] [INFO] app - Express server listening on port 3000
+[2013-10-18 11:58:01.676] [INFO] app - GET /
+[2013-10-18 11:58:40.994] [INFO] app - Express server listening on port 3000
+[2013-10-18 11:58:43.685] [INFO] app - GET /
+[2013-10-18 11:59:20.650] [INFO] app - Express server listening on port 3000
+[2013-10-18 11:59:23.102] [INFO] app - GET /
+[2013-10-18 12:00:38.782] [INFO] app - Express server listening on port 3000
+[2013-10-18 12:00:46.144] [INFO] app - GET /
+[2013-10-18 12:00:55.618] [INFO] app - GET /
+[2013-10-18 12:01:57.181] [INFO] app - Express server listening on port 3000
+[2013-10-18 12:02:00.941] [INFO] app - GET /
+[2013-10-18 13:33:57.244] [INFO] app - Express server listening on port 3000
+[2013-10-18 13:34:05.356] [INFO] app - GET /
+[2013-10-18 13:37:18.939] [INFO] app - Express server listening on port 3000
+[2013-10-18 13:37:23.897] [INFO] app - GET /
+[2013-10-18 13:37:36.648] [INFO] app - GET /usedsdfsf
+[2013-10-18 13:39:47.485] [INFO] app - Express server listening on port 3000
+[2013-10-18 13:39:53.368] [INFO] app - GET /
+[2013-10-18 13:40:06.280] [INFO] app - Express server listening on port 3000
+[2013-10-18 13:40:07.838] [INFO] app - GET /
+[2013-10-18 13:40:12.071] [INFO] app - GET /
+[2013-10-18 13:40:59.465] [INFO] app - Express server listening on port 3000
+[2013-10-18 13:41:01.445] [INFO] app - GET /
+[2013-10-18 13:42:03.193] [INFO] app - Express server listening on port 3000
+[2013-10-18 13:42:04.876] [INFO] app - GET /
+[2013-10-18 13:42:15.703] [INFO] app - GET /dfgdf
+[2013-10-18 13:42:38.490] [INFO] app - Express server listening on port 3000
+[2013-10-18 13:42:40.485] [INFO] app - GET /dfgdf
+[2013-10-18 13:46:55.561] [INFO] app - GET /dfgdf
+[2013-10-18 13:46:56.316] [INFO] app - GET /dfgdf
+[2013-10-18 13:46:56.560] [INFO] app - GET /dfgdf
+[2013-10-18 13:48:01.624] [INFO] app - Express server listening on port 3000
+[2013-10-18 13:48:03.669] [INFO] app - GET /
+[2013-10-18 13:48:16.146] [INFO] app - Express server listening on port 3000
+[2013-10-18 13:50:47.477] [INFO] app - Express server listening on port 3000
+[2013-10-18 13:50:50.983] [INFO] app - GET /
+[2013-10-18 13:52:12.645] [INFO] app - Express server listening on port 3000
+[2013-10-18 13:52:20.029] [INFO] app - GET /
+[2013-10-18 13:56:14.794] [INFO] app - Express server listening on port 3000
+[2013-10-18 13:56:19.366] [INFO] app - GET /
+[2013-10-18 13:58:35.693] [INFO] app - Express server listening on port 3000
+[2013-10-18 13:58:40.149] [INFO] app - GET /
+[2013-10-18 13:59:34.596] [INFO] app - Express server listening on port 3000
+[2013-10-18 13:59:37.593] [INFO] app - GET /
+[2013-10-18 14:06:25.731] [INFO] app - Express server listening on port 3000
+[2013-10-18 14:07:19.361] [INFO] app - GET /
+[2013-10-18 14:11:01.584] [INFO] app - Express server listening on port 3000
+[2013-10-18 14:11:05.079] [INFO] app - GET /
+[2013-10-18 14:12:05.658] [INFO] app - Express server listening on port 3000
+[2013-10-18 14:12:07.740] [INFO] app - GET /
+[2013-10-18 14:12:25.303] [INFO] app - Express server listening on port 3000
+[2013-10-18 14:12:49.886] [INFO] app - GET /
+[2013-10-18 14:26:59.187] [INFO] app - Express server listening on port 3000
+[2013-10-18 14:27:03.204] [INFO] app - GET /
+[2013-10-18 14:27:35.660] [INFO] app - Express server listening on port 3000
+[2013-10-18 14:27:37.546] [INFO] app - GET /
+[2013-10-18 16:49:26.652] [INFO] app - Express server listening on port 3000
+[2013-10-18 16:49:32.681] [INFO] app - GET /
+[2013-10-18 16:51:57.948] [INFO] app - Express server listening on port 3000
+[2013-10-18 16:52:01.175] [INFO] app - GET /
+[2013-10-18 16:52:01.201] [INFO] app - GET /stylesheets/images/bottom.png
+[2013-10-18 16:52:17.247] [INFO] app - Express server listening on port 3000
+[2013-10-18 16:52:18.939] [INFO] app - GET /
+[2013-10-18 16:52:59.775] [INFO] app - GET /
+[2013-10-18 16:53:18.685] [INFO] app - GET /
+[2013-10-21 17:46:52.412] [INFO] app - Express server listening on port 3000
+[2013-10-21 17:48:14.336] [INFO] app - GET /
+[2013-10-21 17:49:03.326] [INFO] app - GET /
+[2013-10-21 17:49:03.395] [INFO] app - GET /favicon.ico
+[2013-10-21 17:52:37.986] [INFO] app - GET /
+[2013-10-21 17:52:38.126] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.woff
+[2013-10-21 17:52:38.142] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.ttf
+[2013-10-21 17:52:38.160] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.svg
+[2013-10-21 17:55:27.957] [INFO] app - GET /
+[2013-10-21 17:56:14.540] [INFO] app - GET /
+[2013-10-21 17:56:23.809] [INFO] app - GET /
+[2013-10-21 17:57:33.206] [INFO] app - GET /
+[2013-10-21 17:58:10.030] [INFO] app - GET /
+[2013-10-21 17:58:42.021] [INFO] app - GET /
+[2013-10-21 17:59:30.128] [INFO] app - GET /
+[2013-10-23 17:56:05.728] [INFO] app - Express server listening on port 3000
+[2013-10-23 17:56:18.645] [INFO] app - GET /
+[2013-10-23 17:56:18.875] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.woff
+[2013-10-23 17:56:18.926] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.ttf
+[2013-10-23 17:56:18.957] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.svg
+[2013-10-23 17:57:47.716] [INFO] app - GET /
+[2013-10-23 17:57:47.829] [INFO] app - GET /favicon.ico
+[2013-10-23 17:58:36.607] [INFO] app - GET /
+[2013-10-23 17:59:45.274] [INFO] app - GET /
+[2013-10-23 18:02:20.397] [INFO] app - GET /
+[2013-10-23 18:02:20.478] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.woff
+[2013-10-23 18:02:20.502] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.ttf
+[2013-10-23 18:02:20.582] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.svg
+[2013-10-23 18:03:01.028] [INFO] app - GET /
+[2013-10-23 18:03:43.881] [INFO] app - GET /
+[2013-10-23 18:03:58.956] [INFO] app - GET /
+[2013-10-23 18:04:23.569] [INFO] app - GET /
+[2013-10-24 08:59:40.279] [INFO] app - Express server listening on port 3000
+[2013-10-24 08:59:49.860] [INFO] app - GET /
+[2013-10-24 08:59:50.011] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.woff
+[2013-10-24 08:59:50.042] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.ttf
+[2013-10-24 08:59:50.079] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.svg
+[2013-10-24 09:00:25.171] [INFO] app - GET /
+[2013-10-24 09:01:38.060] [INFO] app - GET /
+[2013-10-24 09:01:57.356] [INFO] app - GET /
+[2013-10-24 09:05:47.630] [INFO] app - GET /
+[2013-10-24 09:07:08.227] [INFO] app - GET /
+[2013-10-24 09:09:12.634] [INFO] app - GET /
+[2013-10-24 09:09:47.575] [INFO] app - GET /
+[2013-10-24 09:12:09.157] [INFO] app - GET /
+[2013-10-24 09:35:29.227] [INFO] app - GET /
+[2013-10-24 09:35:29.392] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.woff
+[2013-10-24 09:35:29.411] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.ttf
+[2013-10-24 09:35:29.434] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.svg
+[2013-10-24 09:35:33.269] [INFO] app - GET /
+[2013-10-24 09:35:33.455] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.woff
+[2013-10-24 09:35:33.482] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.ttf
+[2013-10-24 09:35:33.510] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.svg
+[2013-10-24 09:35:33.533] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.svg
+[2013-10-24 09:36:29.530] [INFO] app - GET /
+[2013-10-24 09:36:48.570] [INFO] app - GET /
+[2013-10-24 09:36:49.808] [INFO] app - GET /
+[2013-10-24 09:37:14.017] [INFO] app - GET /
+[2013-10-24 09:37:37.817] [INFO] app - GET /
+[2013-10-24 09:38:06.324] [INFO] app - GET /
+[2013-10-24 09:39:30.940] [INFO] app - GET /
+[2013-10-24 09:39:32.260] [INFO] app - GET /
+[2013-10-24 09:41:04.389] [INFO] app - GET /
+[2013-10-24 09:41:04.475] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.woff
+[2013-10-24 09:41:04.494] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.ttf
+[2013-10-24 09:41:04.511] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.svg
+[2013-10-24 09:41:04.522] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.svg
+[2013-10-24 09:41:05.468] [INFO] app - GET /
+[2013-10-24 09:41:05.563] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.woff
+[2013-10-24 09:41:05.588] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.ttf
+[2013-10-24 09:41:05.678] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.svg
+[2013-10-24 09:41:05.698] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.svg
+[2013-10-24 09:41:06.462] [INFO] app - GET /
+[2013-10-24 09:41:06.553] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.woff
+[2013-10-24 09:41:06.586] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.ttf
+[2013-10-24 09:41:06.665] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.svg
+[2013-10-24 09:41:06.677] [INFO] app - GET /fonts/sourcesanspro-regular-webfont.svg
+[2013-10-24 09:41:42.424] [INFO] app - GET /
+[2013-10-24 09:41:58.674] [INFO] app - GET /
+[2013-10-24 09:42:16.929] [INFO] app - GET /
+[2013-10-24 09:42:37.945] [INFO] app - GET /
+[2013-10-24 09:44:08.051] [INFO] app - GET /
+[2013-10-24 09:46:39.910] [INFO] app - GET /
+[2013-10-24 09:49:48.867] [INFO] app - GET /
+[2013-10-24 09:49:50.197] [INFO] app - GET /
+[2013-10-24 09:49:51.323] [INFO] app - GET /
+[2013-10-24 09:50:04.271] [INFO] app - GET /
+[2013-10-24 09:50:25.013] [INFO] app - GET /
+[2013-10-24 09:51:09.158] [INFO] app - GET /
+[2013-10-24 09:51:24.694] [INFO] app - GET /
+[2013-10-24 09:51:54.857] [INFO] app - GET /
+[2013-10-24 09:52:33.275] [INFO] app - GET /
+[2013-10-24 09:52:48.886] [INFO] app - GET /
+[2013-10-24 09:53:21.310] [INFO] app - GET /
+[2013-10-24 09:53:36.085] [INFO] app - GET /
+[2013-10-24 09:54:57.712] [INFO] app - GET /
+[2013-10-24 09:55:10.458] [INFO] app - GET /
+[2013-10-24 09:56:05.992] [INFO] app - GET /
+[2013-10-24 09:56:15.777] [INFO] app - GET /
+[2013-10-24 09:56:17.781] [INFO] app - GET /
+[2013-10-24 09:56:50.511] [INFO] app - GET /
+[2013-10-24 09:59:29.087] [INFO] app - GET /
+[2013-10-24 10:01:53.911] [INFO] app - GET /
+[2013-10-24 10:02:20.317] [INFO] app - GET /
+[2013-10-24 10:03:30.610] [INFO] app - GET /
+[2013-10-24 10:04:19.403] [INFO] app - GET /
+[2013-10-24 10:05:13.130] [INFO] app - GET /
+[2013-10-24 10:07:04.794] [INFO] app - GET /
+[2013-10-24 10:08:30.238] [INFO] app - GET /
+[2013-10-24 10:08:52.857] [INFO] app - GET /
+[2013-10-24 10:09:36.213] [INFO] app - GET /
+[2013-10-24 10:10:35.185] [INFO] app - GET /
+[2013-10-24 10:13:40.045] [INFO] app - GET /
+[2013-10-24 10:13:59.006] [INFO] app - GET /
+[2013-10-24 10:18:10.942] [INFO] app - GET /
+[2013-10-24 10:18:11.037] [INFO] app - GET /fonts/fontawesome-webfont.woff?v=3.2.1
+[2013-10-24 10:18:11.068] [INFO] app - GET /fonts/fontawesome-webfont.ttf?v=3.2.1
+[2013-10-24 10:18:11.103] [INFO] app - GET /fonts/fontawesome-webfont.svg
+[2013-10-24 10:20:30.005] [INFO] app - GET /
+[2013-10-24 10:21:19.578] [INFO] app - GET /
+[2013-10-24 10:22:40.460] [INFO] app - GET /
+[2013-10-24 10:22:59.386] [INFO] app - GET /
+[2013-10-24 10:23:00.552] [INFO] app - GET /login
+[2013-10-24 10:24:40.367] [INFO] app - GET /
+[2013-10-24 10:24:41.579] [INFO] app - GET /
+[2013-10-24 10:27:23.351] [INFO] app - GET /
+[2013-10-24 10:27:29.685] [INFO] app - GET /
+[2013-10-24 10:28:34.198] [INFO] app - GET /
+[2013-10-25 11:22:45.259] [INFO] app - Express server listening on port 3000
+[2013-10-25 11:22:53.528] [INFO] app - GET /
+[2013-10-25 11:27:18.914] [INFO] app - GET /
+[2013-10-25 11:27:18.962] [INFO] app - GET /favicon.ico
+[2013-10-25 11:28:31.753] [INFO] app - GET /
+[2013-10-25 11:28:45.824] [INFO] app - GET /
+[2013-10-25 11:28:54.771] [INFO] app - GET /
+[2013-10-25 11:28:56.193] [INFO] app - GET /
+[2013-10-25 11:29:04.188] [INFO] app - GET /
+[2013-10-25 11:32:59.901] [INFO] app - GET /
+[2013-10-25 11:33:00.996] [INFO] app - GET /
+[2013-10-25 11:33:21.725] [INFO] app - GET /
+[2013-10-25 11:34:05.033] [INFO] app - GET /
+[2013-10-25 11:34:45.215] [INFO] app - GET /
+[2013-10-25 11:35:25.925] [INFO] app - GET /
+[2013-10-25 11:38:31.402] [INFO] app - GET /
+[2013-10-25 11:38:32.652] [INFO] app - GET /
+[2013-10-25 11:39:30.088] [INFO] app - GET /
+[2013-10-25 11:39:31.373] [INFO] app - GET /
+[2013-10-25 11:39:45.907] [INFO] app - GET /
+[2013-10-25 11:40:00.044] [INFO] app - GET /
+[2013-10-25 11:40:59.868] [INFO] app - GET /
+[2013-10-25 11:41:41.289] [INFO] app - GET /
+[2013-10-25 11:42:00.971] [INFO] app - GET /
+[2013-10-25 11:43:31.297] [INFO] app - GET /
+[2013-10-25 11:45:57.543] [INFO] app - GET /
+[2013-10-25 11:46:23.417] [INFO] app - GET /
+[2013-10-25 11:47:12.310] [INFO] app - GET /
+[2013-10-25 11:47:13.329] [INFO] app - GET /
+[2013-10-25 11:48:18.450] [INFO] app - GET /
+[2013-10-25 11:48:19.806] [INFO] app - GET /
+[2013-10-25 11:48:47.422] [INFO] app - GET /
+[2013-10-25 11:48:48.441] [INFO] app - GET /
+[2013-10-25 11:49:05.359] [INFO] app - GET /
+[2013-10-25 11:49:20.172] [INFO] app - GET /
+[2013-10-25 11:49:21.100] [INFO] app - GET /
+[2013-10-25 11:50:30.737] [INFO] app - GET /
+[2013-10-25 11:50:56.068] [INFO] app - GET /
+[2013-10-25 11:55:32.242] [INFO] app - GET /nav
+[2013-10-25 11:55:58.510] [INFO] app - Express server listening on port 3000
+[2013-10-25 11:56:00.690] [INFO] app - GET /nav
+[2013-10-25 11:57:14.459] [INFO] app - Express server listening on port 3000
+[2013-10-25 11:57:21.151] [INFO] app - GET /nav
+[2013-10-25 11:57:58.843] [INFO] app - GET /nav
+[2013-10-25 13:59:45.284] [INFO] app - Express server listening on port 3000
+[2013-10-25 13:59:47.829] [INFO] app - GET /
+[2013-10-25 14:00:21.608] [INFO] app - GET /
+[2013-10-25 14:02:56.976] [INFO] app - Express server listening on port 3000
+[2013-10-25 14:02:59.730] [INFO] app - GET /
+[2013-10-25 14:03:10.548] [INFO] app - GET /template
+[2013-10-25 14:04:05.189] [INFO] app - Express server listening on port 3000
+[2013-10-25 14:04:07.030] [INFO] app - GET /template
+[2013-10-25 14:04:44.386] [INFO] app - Express server listening on port 3000
+[2013-10-25 14:04:46.603] [INFO] app - GET /template
+[2013-10-25 14:04:46.661] [INFO] app - GET /images/groundwork-logo.svg
+[2013-10-25 14:04:46.748] [INFO] app - GET /images/groundwork-logo.svg
+[2013-10-25 14:05:12.358] [INFO] app - GET /template
+[2013-10-25 14:05:12.403] [INFO] app - GET /images/groundwork-logo.svg
+[2013-10-25 14:05:51.099] [INFO] app - GET /template
+[2013-10-25 14:06:41.353] [INFO] app - GET /template
+[2013-10-25 14:06:50.137] [INFO] app - GET /
+[2013-10-25 14:08:46.307] [INFO] app - GET /template
+[2013-10-25 14:09:51.692] [INFO] app - GET /template
+[2013-10-25 14:10:39.190] [INFO] app - GET /template
+[2013-10-25 14:11:33.714] [INFO] app - GET /template
+[2013-10-25 14:12:56.530] [INFO] app - GET /template
+[2013-10-25 14:13:21.617] [INFO] app - GET /template
+[2013-10-25 14:13:40.904] [INFO] app - GET /template
+[2013-10-25 14:14:13.405] [INFO] app - GET /template
+[2013-10-25 14:14:59.242] [INFO] app - GET /template
+[2013-10-25 14:15:46.683] [INFO] app - GET /template
+[2013-10-25 14:16:24.469] [INFO] app - GET /template
+[2013-10-25 14:17:30.708] [INFO] app - Express server listening on port 3000
+[2013-10-25 14:17:33.432] [INFO] app - GET /template
+[2013-10-25 14:17:36.759] [INFO] app - GET /
+[2013-10-25 14:17:39.099] [INFO] app - GET /
+[2013-10-25 14:18:24.014] [INFO] app - GET /
+[2013-10-25 14:18:27.804] [INFO] app - GET /template
+[2013-10-25 14:18:31.207] [INFO] app - GET /template
+[2013-10-25 14:19:18.536] [INFO] app - GET /template
+[2013-10-25 14:19:48.068] [INFO] app - GET /template
+[2013-10-25 14:20:11.720] [INFO] app - GET /template
+[2013-10-25 14:20:26.380] [INFO] app - GET /template
+[2013-10-25 14:21:06.904] [INFO] app - GET /
+[2013-10-25 14:21:53.502] [INFO] app - GET /
+[2013-10-25 14:22:13.203] [INFO] app - Express server listening on port 3000
+[2013-10-25 14:22:15.500] [INFO] app - GET /
+[2013-10-25 14:22:59.364] [INFO] app - GET /
+[2013-10-25 14:23:55.509] [INFO] app - GET /
+[2013-10-29 09:09:01.898] [INFO] app - Express server listening on port 3000
+[2013-10-29 09:09:12.214] [INFO] app - GET /
+[2013-10-29 09:09:52.339] [INFO] app - GET /
+[2013-10-29 09:09:52.545] [INFO] app - GET /favicon.ico
+[2013-10-29 09:15:25.369] [INFO] app - GET /
+[2013-10-29 09:15:27.309] [INFO] app - GET /
+[2013-10-29 09:16:00.428] [INFO] app - GET /
+[2013-10-29 09:20:32.607] [INFO] app - GET /
+[2013-10-29 16:31:07.962] [INFO] app - Express server listening on port 3000
+[2013-10-29 16:31:17.680] [INFO] app - GET /
+[2013-10-29 16:41:36.121] [INFO] app - GET /
+[2013-10-29 16:43:26.928] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 16:44:30.130] [INFO] app - GET /
+[2013-10-29 16:44:30.260] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 16:45:15.136] [INFO] app - GET /
+[2013-10-29 16:45:15.260] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 16:45:45.169] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 16:46:31.464] [INFO] app - GET /
+[2013-10-29 16:46:31.597] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 16:47:06.100] [INFO] app - GET /
+[2013-10-29 16:47:06.233] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 16:49:33.693] [INFO] app - GET /
+[2013-10-29 16:49:33.816] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 16:57:08.632] [INFO] app - GET /login
+[2013-10-29 16:57:10.292] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 16:57:19.250] [INFO] app - GET /
+[2013-10-29 16:57:19.370] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:03:15.633] [INFO] app - GET /
+[2013-10-29 17:03:15.800] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:08:06.738] [INFO] app - GET /
+[2013-10-29 17:08:06.856] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:08:45.407] [INFO] app - GET /
+[2013-10-29 17:08:45.515] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:12:41.035] [INFO] app - GET /
+[2013-10-29 17:12:41.246] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:12:42.514] [INFO] app - GET /
+[2013-10-29 17:12:42.636] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:13:13.917] [INFO] app - GET /
+[2013-10-29 17:13:14.029] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:13:47.014] [INFO] app - GET /
+[2013-10-29 17:13:47.134] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:13:47.882] [INFO] app - GET /
+[2013-10-29 17:13:48.002] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:16:28.227] [INFO] app - GET /
+[2013-10-29 17:16:29.612] [INFO] app - GET /
+[2013-10-29 17:16:33.575] [INFO] app - GET /
+[2013-10-29 17:16:35.712] [INFO] app - GET /
+[2013-10-29 17:27:33.317] [INFO] app - GET /
+[2013-10-29 17:27:34.358] [INFO] app - GET /
+[2013-10-29 17:28:11.573] [INFO] app - GET /
+[2013-10-29 17:28:12.671] [INFO] app - GET /
+[2013-10-29 17:28:15.223] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:29:13.509] [INFO] app - GET /
+[2013-10-29 17:29:13.633] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:29:14.319] [INFO] app - GET /
+[2013-10-29 17:29:14.452] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:29:14.559] [INFO] app - GET /
+[2013-10-29 17:29:14.686] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:29:14.788] [INFO] app - GET /
+[2013-10-29 17:29:14.924] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:29:14.956] [INFO] app - GET /
+[2013-10-29 17:29:15.166] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:31:52.187] [INFO] app - GET /
+[2013-10-29 17:31:52.305] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:32:25.070] [INFO] app - GET /
+[2013-10-29 17:32:25.186] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:32:52.163] [INFO] app - GET /
+[2013-10-29 17:32:52.274] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:33:07.574] [INFO] app - GET /
+[2013-10-29 17:33:07.688] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:33:08.689] [INFO] app - GET /
+[2013-10-29 17:33:08.809] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:33:54.534] [INFO] app - GET /index
+[2013-10-29 17:33:54.749] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:33:57.106] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:35:13.625] [INFO] app - GET /
+[2013-10-29 17:35:13.787] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:35:36.030] [INFO] app - GET /
+[2013-10-29 17:35:36.193] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:36:00.773] [INFO] app - GET /
+[2013-10-29 17:36:00.936] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:36:54.454] [INFO] app - GET /
+[2013-10-29 17:36:54.625] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:37:44.497] [INFO] app - GET /
+[2013-10-29 17:37:44.661] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:38:46.656] [INFO] app - GET /
+[2013-10-29 17:38:46.828] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:39:09.283] [INFO] app - GET /
+[2013-10-29 17:39:09.464] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:39:21.977] [INFO] app - GET /
+[2013-10-29 17:39:22.144] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:39:29.044] [INFO] app - GET /index
+[2013-10-29 17:39:29.221] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:39:30.248] [INFO] app - GET /search
+[2013-10-29 17:39:30.423] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:39:30.868] [INFO] app - GET /login
+[2013-10-29 17:39:32.360] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:39:56.637] [INFO] app - GET /search
+[2013-10-29 17:39:56.811] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:41:36.526] [INFO] app - GET /search
+[2013-10-29 17:41:36.685] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:41:59.349] [INFO] app - GET /search
+[2013-10-29 17:41:59.520] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:42:36.347] [INFO] app - GET /search
+[2013-10-29 17:42:36.507] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:46:50.456] [INFO] app - GET /search
+[2013-10-29 17:46:50.621] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:47:08.964] [INFO] app - GET /search
+[2013-10-29 17:47:09.132] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:47:55.701] [INFO] app - GET /search
+[2013-10-29 17:47:55.869] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:48:11.550] [INFO] app - GET /search
+[2013-10-29 17:48:11.717] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:48:34.437] [INFO] app - GET /search
+[2013-10-29 17:48:34.606] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:48:47.977] [INFO] app - GET /search
+[2013-10-29 17:48:48.152] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:56:01.876] [INFO] app - GET /search
+[2013-10-29 17:56:02.038] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:56:27.729] [INFO] app - GET /index
+[2013-10-29 17:56:27.900] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:56:32.976] [INFO] app - GET /
+[2013-10-29 17:56:33.146] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:57:04.484] [INFO] app - GET /
+[2013-10-29 17:57:04.667] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:57:05.551] [INFO] app - GET /index
+[2013-10-29 17:57:05.714] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:57:14.938] [INFO] app - GET /index
+[2013-10-29 17:57:15.102] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:57:16.043] [INFO] app - GET /index
+[2013-10-29 17:57:16.225] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:57:31.707] [INFO] app - GET /about
+[2013-10-29 17:57:31.870] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:57:32.846] [INFO] app - GET /login
+[2013-10-29 17:57:34.832] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:57:35.837] [INFO] app - GET /index
+[2013-10-29 17:57:35.996] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:57:37.831] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:57:38.753] [INFO] app - GET /about
+[2013-10-29 17:57:38.910] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:57:39.884] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:57:40.318] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:57:41.671] [INFO] app - GET /search
+[2013-10-29 17:57:41.840] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:57:43.067] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:58:43.563] [INFO] app - GET /
+[2013-10-29 17:58:43.720] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:58:44.730] [INFO] app - GET /login
+[2013-10-29 17:58:46.297] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:58:55.625] [INFO] app - Express server listening on port 3000
+[2013-10-29 17:58:57.598] [INFO] app - GET /
+[2013-10-29 17:58:57.779] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:58:58.903] [INFO] app - GET /login
+[2013-10-29 17:58:59.069] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:59:02.213] [INFO] app - GET /search
+[2013-10-29 17:59:02.375] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:59:03.077] [INFO] app - GET /index
+[2013-10-29 17:59:03.238] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:59:05.135] [INFO] app - GET /login
+[2013-10-29 17:59:05.295] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:59:06.717] [INFO] app - GET /index
+[2013-10-29 17:59:06.893] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:59:41.564] [INFO] app - GET /index
+[2013-10-29 17:59:41.731] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-29 17:59:54.723] [INFO] app - GET /index
+[2013-10-29 17:59:54.887] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 10:51:20.110] [INFO] app - Express server listening on port 3000
+[2013-10-30 10:51:25.214] [INFO] app - GET /
+[2013-10-30 10:52:42.458] [INFO] app - GET /
+[2013-10-30 10:52:42.610] [INFO] app - GET /favicon.ico
+[2013-10-30 10:55:04.528] [INFO] app - GET /
+[2013-10-30 10:55:38.576] [INFO] app - GET /
+[2013-10-30 10:57:16.169] [INFO] app - GET /
+[2013-10-30 10:57:41.038] [INFO] app - GET /
+[2013-10-30 10:58:03.814] [INFO] app - GET /
+[2013-10-30 10:59:12.929] [INFO] app - GET /
+[2013-10-30 10:59:15.662] [INFO] app - GET /
+[2013-10-30 11:01:48.432] [INFO] app - GET /
+[2013-10-30 11:02:19.261] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 11:04:34.957] [INFO] app - GET /
+[2013-10-30 11:04:35.083] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 11:05:11.126] [INFO] app - GET /
+[2013-10-30 11:05:28.906] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 11:07:02.978] [INFO] app - GET /
+[2013-10-30 11:07:03.085] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 11:09:10.417] [INFO] app - GET /search
+[2013-10-30 11:09:10.570] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 11:10:19.856] [INFO] app - GET /search
+[2013-10-30 11:10:19.989] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 11:10:22.005] [INFO] app - GET /index
+[2013-10-30 11:10:22.135] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 11:16:33.256] [INFO] app - GET /index
+[2013-10-30 11:16:33.393] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 11:16:56.957] [INFO] app - GET /index
+[2013-10-30 11:16:57.079] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 11:17:39.852] [INFO] app - GET /index
+[2013-10-30 11:17:39.979] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 11:19:00.952] [INFO] app - GET /index
+[2013-10-30 11:19:01.075] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 11:31:33.418] [INFO] app - GET /index
+[2013-10-30 11:31:33.599] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 11:31:34.444] [INFO] app - GET /index
+[2013-10-30 11:31:34.593] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 15:00:40.862] [INFO] app - Express server listening on port 3000
+[2013-10-30 15:00:47.415] [INFO] app - GET /
+[2013-10-30 15:01:55.853] [INFO] app - Express server listening on port 3000
+[2013-10-30 15:01:58.075] [INFO] app - GET /
+[2013-10-30 15:05:44.735] [INFO] app - Express server listening on port 3000
+[2013-10-30 15:05:47.941] [INFO] app - GET /
+[2013-10-30 15:06:27.761] [INFO] app - Express server listening on port 3000
+[2013-10-30 15:06:29.976] [INFO] app - GET /
+[2013-10-30 15:09:04.902] [INFO] app - Express server listening on port 3000
+[2013-10-30 15:09:07.455] [INFO] app - GET /
+[2013-10-30 15:10:32.768] [INFO] app - Express server listening on port 3000
+[2013-10-30 15:10:35.666] [INFO] app - GET /
+[2013-10-30 15:11:19.719] [INFO] app - Express server listening on port 3000
+[2013-10-30 15:11:21.718] [INFO] app - GET /
+[2013-10-30 15:11:28.440] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 15:12:04.369] [INFO] app - Express server listening on port 3000
+[2013-10-30 15:12:06.161] [INFO] app - GET /
+[2013-10-30 15:12:58.689] [INFO] app - Express server listening on port 3000
+[2013-10-30 15:13:00.927] [INFO] app - GET /
+[2013-10-30 15:13:01.092] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 15:13:20.258] [INFO] app - Express server listening on port 3000
+[2013-10-30 15:13:21.951] [INFO] app - GET /
+[2013-10-30 15:13:22.098] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 15:14:07.850] [INFO] app - GET /
+[2013-10-30 15:14:07.982] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 15:16:24.746] [INFO] app - GET /
+[2013-10-30 15:16:41.734] [INFO] app - Express server listening on port 3000
+[2013-10-30 15:16:44.643] [INFO] app - GET /
+[2013-10-30 15:17:01.999] [INFO] app - GET /
+[2013-10-30 15:17:02.155] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 15:17:25.318] [INFO] app - Express server listening on port 3000
+[2013-10-30 15:17:27.580] [INFO] app - GET /
+[2013-10-30 15:17:27.735] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 15:17:29.640] [INFO] app - GET /
+[2013-10-30 15:17:29.824] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 15:18:24.407] [INFO] app - GET /
+[2013-10-30 15:18:24.539] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 15:18:32.601] [INFO] app - GET /
+[2013-10-30 15:18:32.707] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 15:19:00.946] [INFO] app - GET /
+[2013-10-30 15:19:01.079] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 15:20:44.082] [INFO] app - GET /
+[2013-10-30 15:21:14.440] [INFO] app - GET /
+[2013-10-30 15:21:57.055] [INFO] app - GET /
+[2013-10-30 15:21:59.282] [INFO] app - GET /
+[2013-10-30 15:23:10.999] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 15:25:57.593] [INFO] app - Express server listening on port 3000
+[2013-10-30 15:26:00.500] [INFO] app - GET /
+[2013-10-30 15:26:00.650] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 15:26:42.483] [INFO] app - GET /
+[2013-10-30 15:26:42.617] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 15:27:29.076] [INFO] app - GET /
+[2013-10-30 15:27:29.205] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 15:27:49.548] [INFO] app - GET /
+[2013-10-30 15:27:49.669] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 17:44:53.255] [INFO] app - GET /
+[2013-10-30 17:44:56.410] [INFO] app - GET /
+[2013-10-30 17:45:47.018] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 17:48:02.518] [INFO] app - GET /
+[2013-10-30 17:48:02.644] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 17:48:11.554] [INFO] app - GET /
+[2013-10-30 17:48:11.672] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 17:48:17.439] [INFO] app - Express server listening on port 3000
+[2013-10-30 17:49:27.473] [INFO] app - Express server listening on port 3000
+[2013-10-30 17:49:29.844] [INFO] app - GET /
+[2013-10-30 17:49:29.989] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 17:51:25.586] [INFO] app - GET /
+[2013-10-30 17:51:25.727] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 17:53:20.965] [INFO] app - GET /
+[2013-10-30 17:53:21.090] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 17:53:32.750] [INFO] app - GET /
+[2013-10-30 17:53:32.880] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 17:53:34.850] [INFO] app - GET /
+[2013-10-30 17:53:34.968] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 17:54:46.599] [INFO] app - Express server listening on port 3000
+[2013-10-30 17:54:48.332] [INFO] app - GET /
+[2013-10-30 17:54:48.481] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 17:55:25.416] [INFO] app - Express server listening on port 3000
+[2013-10-30 17:55:26.975] [INFO] app - GET /
+[2013-10-30 17:55:27.119] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 17:55:45.818] [INFO] app - GET /
+[2013-10-30 17:55:45.944] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 17:55:54.825] [INFO] app - Express server listening on port 3000
+[2013-10-30 17:55:56.229] [INFO] app - GET /
+[2013-10-30 17:55:56.370] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 17:56:31.763] [INFO] app - GET /
+[2013-10-30 17:56:31.922] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 18:01:26.081] [INFO] app - GET /
+[2013-10-30 18:01:26.243] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 18:01:39.939] [INFO] app - GET /
+[2013-10-30 18:01:40.072] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 18:01:55.250] [INFO] app - GET /
+[2013-10-30 18:01:55.397] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-30 18:02:47.954] [INFO] app - GET /
+[2013-10-30 18:02:48.077] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 10:38:57.825] [INFO] app - Express server listening on port 3000
+[2013-10-31 10:39:04.355] [INFO] app - GET /
+[2013-10-31 10:39:10.907] [INFO] app - GET /login
+[2013-10-31 10:41:26.739] [INFO] app - GET /login
+[2013-10-31 10:41:48.546] [INFO] app - GET /login
+[2013-10-31 10:43:03.441] [INFO] app - GET /login
+[2013-10-31 10:43:21.301] [INFO] app - GET /login
+[2013-10-31 10:43:47.726] [INFO] app - GET /login
+[2013-10-31 10:48:41.965] [INFO] app - GET /login
+[2013-10-31 10:49:26.661] [INFO] app - GET /login
+[2013-10-31 10:50:03.801] [INFO] app - GET /login
+[2013-10-31 10:50:23.455] [INFO] app - GET /login
+[2013-10-31 10:50:44.050] [INFO] app - GET /login
+[2013-10-31 10:53:55.936] [INFO] app - GET /login
+[2013-10-31 10:53:56.072] [INFO] app - GET /favicon.ico
+[2013-10-31 10:55:00.688] [INFO] app - GET /login
+[2013-10-31 10:55:05.486] [INFO] app - POST /connect
+[2013-10-31 10:55:09.436] [INFO] app - POST /newlogin
+[2013-10-31 11:22:29.007] [INFO] app - Express server listening on port 3000
+[2013-10-31 11:23:58.726] [INFO] app - Express server listening on port 3000
+[2013-10-31 11:26:34.325] [INFO] app - Express server listening on port 3000
+[2013-10-31 11:27:03.101] [INFO] app - Express server listening on port 3000
+[2013-10-31 11:27:09.359] [INFO] app - GET /login
+[2013-10-31 11:27:17.902] [INFO] app - POST /connect
+[2013-10-31 11:27:49.564] [INFO] app - Express server listening on port 3000
+[2013-10-31 11:28:09.290] [INFO] app - POST /connect
+[2013-10-31 11:29:16.893] [INFO] app - Express server listening on port 3000
+[2013-10-31 11:29:23.790] [INFO] app - POST /connect
+[2013-10-31 11:35:07.868] [INFO] app - Express server listening on port 3000
+[2013-10-31 11:35:10.220] [INFO] app - GET /login
+[2013-10-31 11:40:22.380] [INFO] app - Express server listening on port 3000
+[2013-10-31 11:40:24.947] [INFO] app - GET /login
+[2013-10-31 11:41:16.233] [INFO] app - Express server listening on port 3000
+[2013-10-31 11:41:19.180] [INFO] app - GET /login
+[2013-10-31 11:43:53.395] [INFO] app - GET /login
+[2013-10-31 11:43:58.704] [INFO] app - GET /login?error=test
+[2013-10-31 11:44:15.969] [INFO] app - Express server listening on port 3000
+[2013-10-31 11:45:52.673] [INFO] app - GET /login?error=test
+[2013-10-31 11:47:22.913] [INFO] app - GET /login?error=test
+[2013-10-31 11:47:54.646] [INFO] app - Express server listening on port 3000
+[2013-10-31 11:47:59.304] [INFO] app - GET /login?error=test
+[2013-10-31 11:48:02.683] [INFO] app - GET /login?error=test
+[2013-10-31 11:48:56.006] [INFO] app - Express server listening on port 3000
+[2013-10-31 11:49:04.053] [INFO] app - GET /login?error=test
+[2013-10-31 11:49:39.545] [INFO] app - Express server listening on port 3000
+[2013-10-31 11:49:42.512] [INFO] app - GET /login?error=test
+[2013-10-31 11:51:09.309] [INFO] app - Express server listening on port 3000
+[2013-10-31 11:51:12.033] [INFO] app - GET /login?error=test
+[2013-10-31 11:51:31.487] [INFO] app - Express server listening on port 3000
+[2013-10-31 11:51:33.182] [INFO] app - GET /login?error=test
+[2013-10-31 11:51:36.501] [INFO] app - GET /login
+[2013-10-31 11:52:41.438] [INFO] app - Express server listening on port 3000
+[2013-10-31 11:52:46.020] [INFO] app - GET /login
+[2013-10-31 11:52:51.177] [INFO] app - GET /login?error=test
+[2013-10-31 11:53:11.312] [INFO] app - GET /login?error=test
+[2013-10-31 11:54:24.655] [INFO] app - GET /login?error=test
+[2013-10-31 11:54:59.267] [INFO] app - GET /login?error=test
+[2013-10-31 11:55:04.841] [INFO] app - GET /login?error=test
+[2013-10-31 11:55:52.878] [INFO] app - POST /connect
+[2013-10-31 11:55:52.939] [INFO] app - GET /login?error=User%20not%20found%20!
+[2013-10-31 11:55:59.487] [INFO] app - POST /connect
+[2013-10-31 11:55:59.544] [INFO] app - GET /login?error=User%20not%20found%20!
+[2013-10-31 14:21:29.659] [INFO] app - Express server listening on port 3000
+[2013-10-31 14:21:39.240] [INFO] app - GET /
+[2013-10-31 14:21:45.115] [INFO] app - GET /login
+[2013-10-31 14:21:48.715] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 14:21:59.694] [INFO] app - POST /connect
+[2013-10-31 14:21:59.777] [INFO] app - GET /login?error=User%20not%20found%20!
+[2013-10-31 14:21:59.910] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 14:22:48.921] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 14:22:50.698] [INFO] app - GET /login
+[2013-10-31 14:22:50.827] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 14:22:52.731] [INFO] app - POST /connect
+[2013-10-31 14:22:52.783] [INFO] app - GET /login?error=User%20not%20found%20!
+[2013-10-31 14:22:52.912] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 14:23:02.319] [INFO] app - Express server listening on port 3000
+[2013-10-31 14:23:04.028] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 14:23:05.477] [INFO] app - GET /login
+[2013-10-31 14:23:05.604] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 14:23:10.746] [INFO] app - POST /connect
+[2013-10-31 14:23:16.802] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 14:24:20.983] [INFO] app - GET /login
+[2013-10-31 14:24:21.150] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 14:24:35.612] [INFO] app - POST /connect
+[2013-10-31 14:25:51.702] [INFO] app - POST /connect
+[2013-10-31 14:26:59.293] [INFO] app - Express server listening on port 3000
+[2013-10-31 14:27:26.929] [INFO] app - GET /login
+[2013-10-31 14:27:28.754] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 14:28:16.317] [INFO] app - POST /connect
+[2013-10-31 14:31:15.035] [INFO] app - POST /connect
+[2013-10-31 14:33:35.923] [INFO] app - GET /login
+[2013-10-31 14:33:37.865] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 14:33:47.062] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 14:33:53.281] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 14:34:11.185] [INFO] app - POST /connect
+[2013-10-31 14:37:32.123] [INFO] app - Express server listening on port 3000
+[2013-10-31 14:37:44.901] [INFO] app - GET /login
+[2013-10-31 14:37:46.737] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 14:38:05.194] [INFO] app - POST /connect
+[2013-10-31 14:40:32.167] [INFO] app - Express server listening on port 3000
+[2013-10-31 14:40:38.234] [INFO] app - GET /login
+[2013-10-31 14:40:38.427] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 14:40:40.183] [INFO] app - POST /connect
+[2013-10-31 14:40:49.826] [INFO] app - POST /connect
+[2013-10-31 14:43:14.656] [INFO] app - Express server listening on port 3000
+[2013-10-31 14:43:16.740] [INFO] app - GET /login
+[2013-10-31 14:43:16.929] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 14:43:21.004] [INFO] app - POST /connect
+[2013-10-31 14:47:00.771] [INFO] app - Express server listening on port 3000
+[2013-10-31 14:47:10.267] [INFO] app - GET /login
+[2013-10-31 14:47:10.457] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 14:47:14.042] [INFO] app - POST /connect
+[2013-10-31 14:47:17.724] [INFO] app - POST /connect
+[2013-10-31 14:47:18.812] [INFO] app - POST /connect
+[2013-10-31 14:47:24.314] [INFO] app - POST /connect
+[2013-10-31 14:49:23.071] [INFO] app - GET /login
+[2013-10-31 14:49:23.281] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 14:49:24.953] [INFO] app - POST /connect
+[2013-10-31 14:49:39.024] [INFO] app - POST /connect
+[2013-10-31 14:50:28.292] [INFO] app - GET /login
+[2013-10-31 14:50:28.469] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 14:50:38.053] [INFO] app - GET /login
+[2013-10-31 14:50:38.221] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 14:50:39.081] [INFO] app - POST /connect
+[2013-10-31 14:51:52.123] [INFO] app - GET /login
+[2013-10-31 14:51:52.288] [INFO] app - GET /scripts/jquery-1.10.2.min.map
+[2013-10-31 14:51:53.517] [INFO] app - POST /connect
+[2014-08-27 14:50:53.039] [INFO] app - Express server listening on port 3000
+[2014-08-27 14:51:32.021] [INFO] app - Express server listening on port 3000
+[2014-08-27 14:52:10.650] [INFO] app - Express server listening on port 3000
+[2014-08-27 14:53:26.817] [INFO] app - Express server listening on port 3000
+[2014-08-27 14:53:45.828] [INFO] app - GET /
+[2014-08-27 14:53:47.650] [INFO] app - GET /favicon.ico
+[2014-08-27 14:53:57.381] [INFO] app - GET /
+[2014-08-27 14:54:03.729] [INFO] app - GET /login
+[2014-08-27 14:54:08.225] [INFO] app - GET /login
+[2014-08-27 14:55:59.626] [INFO] app - POST /newlogin
+[2014-12-19 11:35:34.967] [INFO] app - Express server listening on port 3000
+[2014-12-19 11:36:49.763] [INFO] app - Express server listening on port 3000
+[2014-12-19 11:37:08.629] [INFO] app - GET /
+[2014-12-19 11:37:08.692] [INFO] app - GET /favicon.ico
+[2014-12-19 11:38:57.062] [INFO] app - Express server listening on port 3000
+[2014-12-19 11:38:59.333] [INFO] app - GET /
+[2014-12-19 11:46:58.968] [INFO] app - Express server listening on port 3000
+[2014-12-19 11:47:01.841] [INFO] app - GET /
+[2014-12-19 11:47:11.138] [INFO] app - GET /login
+[2014-12-19 11:49:15.135] [INFO] app - Express server listening on port 3000
+[2014-12-19 11:49:21.801] [INFO] app - Express server listening on port 3000
+[2014-12-19 11:49:33.843] [INFO] app - GET /login
+[2014-12-19 13:54:23.738] [INFO] app - Express server listening on port 3000
+[2014-12-19 13:54:55.790] [INFO] app - Express server listening on port 3000
+[2014-12-19 13:55:22.117] [INFO] app - GET /
+[2014-12-19 13:55:29.147] [INFO] app - GET /login
+[2014-12-19 13:55:33.217] [INFO] app - POST /connect
+[2014-12-19 13:55:45.001] [INFO] app - POST /newlogin
